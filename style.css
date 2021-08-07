@@ -244,6 +244,9 @@ textarea{
 	.subscribe{
 		height: 850px;
 	}
+	.flip-card-back,.flip-card-front{
+		max-width: 75%;
+	}
 }
 @media (max-width: 479px){
 	.headerset h1{
@@ -274,5 +277,8 @@ textarea{
 	}
 	.subscribe{
 		height: 850px;
+	}
+	.flip-card-back,.flip-card-front{
+		max-width: 75%;
 	}
 }
