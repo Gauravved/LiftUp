@@ -179,10 +179,13 @@ textarea{
 		height: 1900px;
 	}
 	.ourteam{
-		height: 1500px;
+		height: 950px;
 	}
 	.plans{
 		height: 1600px;
+	}
+	.flip-card-back,.flip-card-front{
+		width: 90%;
 	}
 }
 @media(min-width: 575px) and (max-width: 767px){
